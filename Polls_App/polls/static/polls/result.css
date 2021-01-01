@@ -1,0 +1,24 @@
+body {
+  background : white;
+  display: flex;
+  flex-flow: column;
+}
+
+h1 {
+  color: red;
+  background-color: ;
+  text-align: center;
+  text-shado
+}
+
+div {
+  /*text-size: 50px;*/
+  margin: 40px;
+  background-color: white;
+}
+
+div ul li {
+  color: green;
+  size: 40px;
+
+}
